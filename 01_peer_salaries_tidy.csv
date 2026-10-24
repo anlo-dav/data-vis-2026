@@ -1,0 +1,127 @@
+School,Adjustment,Rank,Salary
+Amherst,Unadjusted,Full,155832.57
+Amherst,COLA-adjusted,Full,142275.14
+Amherst,Unadjusted,Associate,110986.29
+Amherst,COLA-adjusted,Associate,101330.48
+Amherst,Unadjusted,Assistant,93328.94
+Amherst,COLA-adjusted,Assistant,85859.19
+Bates,Unadjusted,Full,134487.13
+Bates,COLA-adjusted,Full,153180.84
+Bates,Unadjusted,Associate,105216.93
+Bates,COLA-adjusted,Associate,119842.08
+Bates,Unadjusted,Assistant,85861.9
+Bates,COLA-adjusted,Assistant,85861.9
+Bowdoin,Unadjusted,Full,146856.94
+Bowdoin,COLA-adjusted,Full,137458.1
+Bowdoin,Unadjusted,Associate,113680.19
+Bowdoin,COLA-adjusted,Associate,106404.66
+Bowdoin,Unadjusted,Assistant,91352.21
+Bowdoin,COLA-adjusted,Assistant,85505.67
+Carleton,Unadjusted,Full,141305.4
+Carleton,COLA-adjusted,Full,137914.07
+Carleton,Unadjusted,Associate,107210.25
+Carleton,COLA-adjusted,Associate,104637.2
+Carleton,Unadjusted,Assistant,88513.61
+Carleton,COLA-adjusted,Assistant,86389.28
+Claremont McKenna,Unadjusted,Full,176097.86
+Claremont McKenna,COLA-adjusted,Full,60401.57
+Claremont McKenna,Unadjusted,Associate,128041.61
+Claremont McKenna,COLA-adjusted,Associate,43918.27
+Claremont McKenna,Unadjusted,Assistant,108669.75
+Claremont McKenna,COLA-adjusted,Assistant,37273.72
+Colby,Unadjusted,Full,145970.84
+Colby,COLA-adjusted,Full,177062.63
+Colby,Unadjusted,Associate,105841.43
+Colby,COLA-adjusted,Associate,128385.65
+Colby,Unadjusted,Assistant,88083.89
+Colby,COLA-adjusted,Assistant,106845.76
+Colgate,Unadjusted,Full,151653.61
+Colgate,COLA-adjusted,Full,175008.27
+Colgate,Unadjusted,Associate,108479.27
+Colgate,COLA-adjusted,Associate,125185.08
+Colgate,Unadjusted,Assistant,92464.38
+Colgate,COLA-adjusted,Assistant,106703.89
+Davidson,Unadjusted,Full,134729.29
+Davidson,COLA-adjusted,Full,112094.77
+Davidson,Unadjusted,Associate,98242.92
+Davidson,COLA-adjusted,Associate,81738.11
+Davidson,Unadjusted,Assistant,79876.9
+Davidson,COLA-adjusted,Assistant,66457.58
+Furman,Unadjusted,Full,102722.95
+Furman,COLA-adjusted,Full,114330.64
+Furman,Unadjusted,Associate,82983.13
+Furman,COLA-adjusted,Associate,92360.22
+Furman,Unadjusted,Assistant,70363.92
+Furman,COLA-adjusted,Assistant,78315.04
+Grinnell,Unadjusted,Full,139557.74
+Grinnell,COLA-adjusted,Full,168585.75
+Grinnell,Unadjusted,Associate,105907.67
+Grinnell,COLA-adjusted,Associate,127936.47
+Grinnell,Unadjusted,Assistant,87727.22
+Grinnell,COLA-adjusted,Assistant,105974.48
+Hamilton,Unadjusted,Full,142149.28
+Hamilton,COLA-adjusted,Full,176975.85
+Hamilton,Unadjusted,Associate,108150.0
+Hamilton,COLA-adjusted,Associate,134646.75
+Hamilton,Unadjusted,Assistant,88382.78
+Hamilton,COLA-adjusted,Assistant,110036.56
+Haverford,Unadjusted,Full,131175.59
+Haverford,COLA-adjusted,Full,38827.97
+Haverford,Unadjusted,Associate,101031.32
+Haverford,COLA-adjusted,Associate,29905.27
+Haverford,Unadjusted,Assistant,84959.35
+Haverford,COLA-adjusted,Assistant,25147.97
+Macalester,Unadjusted,Full,126583.01
+Macalester,COLA-adjusted,Full,128355.17
+Macalester,Unadjusted,Associate,95132.95
+Macalester,COLA-adjusted,Associate,96464.81
+Macalester,Unadjusted,Assistant,79774.8
+Macalester,COLA-adjusted,Assistant,80891.65
+Middlebury,Unadjusted,Full,140387.28
+Middlebury,COLA-adjusted,Full,144318.12
+Middlebury,Unadjusted,Associate,104368.11
+Middlebury,COLA-adjusted,Associate,107290.42
+Middlebury,Unadjusted,Assistant,90234.19
+Middlebury,COLA-adjusted,Assistant,92760.75
+Oberlin,Unadjusted,Full,122742.26
+Oberlin,COLA-adjusted,Full,150850.24
+Oberlin,Unadjusted,Associate,94994.3
+Oberlin,COLA-adjusted,Associate,116747.99
+Oberlin,Unadjusted,Assistant,72109.46
+Oberlin,COLA-adjusted,Assistant,88622.53
+Pomona,Unadjusted,Full,160490.68
+Pomona,COLA-adjusted,Full,55048.3
+Pomona,Unadjusted,Associate,120016.47
+Pomona,COLA-adjusted,Associate,41165.65
+Pomona,Unadjusted,Assistant,98629.45
+Pomona,COLA-adjusted,Assistant,33829.9
+Swarthmore,Unadjusted,Full,156328.64
+Swarthmore,COLA-adjusted,Full,136943.89
+Swarthmore,Unadjusted,Associate,111489.46
+Swarthmore,COLA-adjusted,Associate,97664.77
+Swarthmore,Unadjusted,Assistant,87689.87
+Swarthmore,COLA-adjusted,Assistant,76816.33
+Vassar,Unadjusted,Full,142788.3
+Vassar,COLA-adjusted,Full,139218.59
+Vassar,Unadjusted,Associate,111493.42
+Vassar,COLA-adjusted,Associate,108706.08
+Vassar,Unadjusted,Assistant,89257.63
+Vassar,COLA-adjusted,Assistant,87026.19
+Washington and Lee,Unadjusted,Full,143853.24
+Washington and Lee,COLA-adjusted,Full,164424.25
+Washington and Lee,Unadjusted,Associate,115712.37
+Washington and Lee,COLA-adjusted,Associate,132259.24
+Washington and Lee,Unadjusted,Assistant,95154.32
+Washington and Lee,COLA-adjusted,Assistant,108761.39
+Wesleyan,Unadjusted,Full,158454.83
+Wesleyan,COLA-adjusted,Full,154335.0
+Wesleyan,Unadjusted,Associate,111007.56
+Wesleyan,COLA-adjusted,Associate,108121.36
+Wesleyan,Unadjusted,Assistant,91207.26
+Wesleyan,COLA-adjusted,Assistant,88835.87
+Williams,Unadjusted,Full,149902.98
+Williams,COLA-adjusted,Full,148553.85
+Williams,Unadjusted,Associate,106039.74
+Williams,COLA-adjusted,Associate,105085.38
+Williams,Unadjusted,Assistant,93837.29
+Williams,COLA-adjusted,Assistant,92992.75
